@@ -75,7 +75,6 @@ function App() {
 
   const randomFont = () => {
     const index = Math.floor(Math.random() * fontFamilies.length);
-    console.log('FONT',fontFamilies[index])
 		setFontFamily(fontFamilies[index]);
   }
 
