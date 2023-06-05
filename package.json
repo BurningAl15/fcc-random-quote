@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://burningal15.github.io/fcc-random-quote/",
+  "homepage": "https://burningal15.github.io/fcc-random-quote",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
